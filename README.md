@@ -25,7 +25,7 @@ Build a Recommendation function
 ## Requirements  
 Pandas  
 Numpy   
-sci-kit learn 
+sci-kit learn                                                                                                                                                                                                               
 Corpus
 ## Programmes  
 Python  
